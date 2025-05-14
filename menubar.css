@@ -1,0 +1,14 @@
+div.menubar > a{
+    font-size: 32px;
+    margin: 0 16px;
+
+    text-decoration: none;
+    color: gray;
+}
+div.menubar > a:hover {
+    color: black;
+}
+a.menubar{
+    width: 90vw;
+    margin: 0 auto;
+}
